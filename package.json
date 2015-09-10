@@ -1,0 +1,15 @@
+{
+  "name": "tinypass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/tinypass.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blain Smith <rebelgeek@blainsmith.com> (http://blainsmith.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.1"
+  }
+}
