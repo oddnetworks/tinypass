@@ -7,8 +7,13 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Blain Smith <rebelgeek@blainsmith.com> (http://blainsmith.com/)",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oddnetworks/tinypass.git"
+  },
+  "author": "Odd Networks",
+  "homepage": "https://github.com/oddnetworks/tinypass",
+  "license": "MIT",
   "dependencies": {
     "aes-js": "2.0.0",
     "chalk": "1.1.3",
