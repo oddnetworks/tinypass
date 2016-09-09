@@ -1,6 +1,6 @@
 {
   "name": "tinypass",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "lib/tinypass.js",
   "scripts": {
@@ -10,8 +10,8 @@
   "author": "Blain Smith <rebelgeek@blainsmith.com> (http://blainsmith.com/)",
   "license": "ISC",
   "dependencies": {
-    "aes-js": "^0.1.0",
-    "chalk": "^1.1.1",
-    "lodash": "^3.10.1"
+    "aes-js": "2.0.0",
+    "chalk": "1.1.3",
+    "lodash": "4.15.0"
   }
 }
